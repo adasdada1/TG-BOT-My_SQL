@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.25.0",
+    "mysql2": "^3.10.1",
+    "nodemon": "^3.1.4"
+  },
+  "name": "tg-bot-mysql",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
